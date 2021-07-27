@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Bhagyashri Sahane
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on Design and Develop Real World Web Application
-- 📫 How to reach me on LinkedIn @bhagyashri-sahane
+- 🌱 Currently learning HTML, CSS, JavaScript
+- 💞️ Looking forward to collaborate on Design and Develop Real World Web Application
+- 📫 You can reach me on LinkedIn @bhagyashri-sahane
 
 <!---
 bhagyashri-sahane/bhagyashri-sahane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
